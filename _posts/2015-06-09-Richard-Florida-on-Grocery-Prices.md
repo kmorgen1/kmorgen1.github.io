@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: single
 title: Richard Florida on Grocery Prices 
 category: blog
 image:
-  feature: blog/2015-06-09-Richard-Florida-on-Grocery-Prices.jpg
+  feature: 2015-06-09-Richard-Florida-on-Grocery-Prices.jpg
   credit: adapted from Juliana Swenson under CC Attribution 2.0 Generic 
 tags: [speckgürteltier,public statistics]
 ---
