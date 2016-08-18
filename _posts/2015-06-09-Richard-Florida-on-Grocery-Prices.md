@@ -2,9 +2,9 @@
 layout: single
 title: Richard Florida on Grocery Prices 
 category: blog
-image:
-  feature: 2015-06-09-Richard-Florida-on-Grocery-Prices.jpg
-  credit: adapted from Juliana Swenson under CC Attribution 2.0 Generic 
+header:
+  image: 2015-06-09-Richard-Florida-on-Grocery-Prices.jpg
+  captiom: adapted from Juliana Swenson under CC Attribution 2.0 Generic 
 tags: [speckgürteltier,public statistics]
 ---
 Richard Florida argues [here](http://www.citylab.com/work/2015/06/why-groceries-cost-less-in-big-cities/394904/) that - counterintuitively - groceries actually cost less in big cities. If I understand him correctly this is because in bigger cities there is a bigger choice of products, including cheaper ones. Standard price indeces are based on product baskets that compare for example 1L of low fat milk of brand A in various places. In real live consumers might substitute brand A with a cheaper brand B and in big city this is more likely because of the greater variety of products.
