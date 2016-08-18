@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Energiekosten der Industrie
 category: blog
 tags: [reading, energie]
