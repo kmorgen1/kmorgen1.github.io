@@ -1,10 +1,10 @@
 ---
 layout: single
 title: Richard Florida on Grocery Prices 
+excerpt: "Beware of statistics"
 category: blog
 header:
   overlay_image: 2015-06-09-Richard-Florida-on-Grocery-Prices.jpg
-  excerpt: "Beware of statistics"
   caption: "adapted from Juliana Swenson under CC Attribution 2.0 Generic" 
 tags: [speckgürteltier,public statistics]
 ---
